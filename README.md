@@ -23,14 +23,14 @@ I'm a Python developer, chess player and a guitarist.
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=krish1010&theme=gruvbox&count_private=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=krish1010&theme=dark&count_private=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krish1010&theme=gruvbox&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krish1010&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=krish1010&show_icons=true&count_private=true&theme=gruvbox)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=krish1010&show_icons=true&count_private=true&theme=dark)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=krish1010&theme=gruvbox&count_private=true)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=krish1010&theme=dark&count_private=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/krish1010)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=krish1010&theme=gruvbox)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=krish1010&theme=dark&count_private=true)
