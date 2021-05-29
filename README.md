@@ -30,7 +30,3 @@ I'm a Python developer, chess player and a guitarist.
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=krish1010&show_icons=true&count_private=true&theme=dark)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=krish1010&theme=dark&count_private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/krish1010)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=krish1010&theme=dark&count_private=true)
