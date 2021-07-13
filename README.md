@@ -27,6 +27,4 @@ I'm a Python developer, chess player and a guitarist.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krish1010&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=krish1010&show_icons=true&count_private=true&theme=dark)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=krish1010&theme=dark&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=krish1010&show_icons=true&count_private=true&theme=dark)
