@@ -13,7 +13,7 @@ I'm a Python developer, chess player and a guitarist.
 <code><img height=40 src="https://github.com/diptangsu/diptangsu/blob/master/src/java.png"/></code>
 
 - 🔭 I’m currently working on core Python and Django projects. 
-- 🌱 I’m currently learning Vue.js 
+- 🌱 I’m currently learning React.js 
 
 
 ***Connect with me:***
