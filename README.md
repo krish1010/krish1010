@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Krish.
-#### I'm a Software Engineer at Persistent Systems Ltd.
-![I am a Software Engineer at Persistent Systems Ltd.](https://pa1.narvii.com/7626/5a2ba03e1042bfa73a87ebccd013a69f1dc03a49r1-265-201_hq.gif)
+#### I'm a Software Engineer.
+![I am a Software Engineer.](https://pa1.narvii.com/7626/5a2ba03e1042bfa73a87ebccd013a69f1dc03a49r1-265-201_hq.gif)
 
 I'm a Python developer, chess player and a guitarist.
 
@@ -12,8 +12,8 @@ I'm a Python developer, chess player and a guitarist.
 <code><img height=30 src="https://github.com/diptangsu/diptangsu/blob/master/src/mysql.png"/></code>
 <code><img height=40 src="https://github.com/diptangsu/diptangsu/blob/master/src/java.png"/></code>
 
-- 🔭 I’m currently working on core Python and Django projects. 
-- 🌱 I’m currently learning React.js 
+- 🔭 I’m currently working on core Python and Flask projects. 
+- 🌱 I’m currently learning Go. 
 
 
 ***Connect with me:***
